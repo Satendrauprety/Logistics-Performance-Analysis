@@ -1,5 +1,4 @@
-# Logistics-Performance-Analysis
-Logistics data analysis project using SQL, Python, and Power BI to analyze delivery performance (inspired by Delhivery experience).
+
 # Logistics & Supply Chain Performance Analytics
 This project analyzes delivery performance and route efficiency for a logistics provider, inspired by my professional experience at Delhivery.
 
